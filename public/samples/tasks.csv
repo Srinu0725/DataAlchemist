@@ -1,0 +1,6 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T01,Data Processing,CategoryA,2,skillA,1-3,3
+T02,Quality Check,CategoryB,1,skillB,2,2
+T03,Reporting,CategoryC,3,skillC,1,1
+T04,Analysis,CategoryA,1,skillA,1-2,2
+T05,Support,CategoryB,2,skillB,2-3,1

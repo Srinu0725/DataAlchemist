@@ -1,0 +1,6 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C001,Alpha Corp,3,T01,TG1,"{\"region\":\"North\",\"type\":\"premium\"}"
+C002,Beta Ltd,2,T02,TG2,"{\"region\":\"South\",\"type\":\"standard\"}"
+C003,Gamma Inc,1,T01,TG1,"{\"region\":\"East\",\"type\":\"premium\"}"
+C004,Delta LLC,4,T03,TG3,"{\"region\":\"West\",\"type\":\"standard\"}"
+C005,Epsilon Co,5,T01,TG2,"{\"region\":\"North\",\"type\":\"premium\"}"
